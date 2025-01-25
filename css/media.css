@@ -1,0 +1,119 @@
+@media only screen and (min-width:100px)and (max-width:575px){
+    .btn-outer{
+        position:fixed;
+        background-color: white;
+        padding: 5px 0px;
+        bottom:-8px;
+        width: 100%;
+        left: 0px;
+        justify-content: center !important;
+        
+
+    }
+    .btn-outer, .call{
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+
+    .bannerContent{
+        font-family: Inter;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 35px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+    }
+
+    .bannerContentBtn button{
+        width: Hug (150px)px;
+    height: Hug (40px)px;
+    padding: 10px 30px 10px 30px;
+    gap: 10px;
+    border-radius: 8px;
+    border: 1px 0px 0px 0px;
+    
+    }
+
+    .bannerContent br {
+        display: none;
+    }
+
+    .para, .check{
+        font-family: Inter;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: center;
+    
+    }
+
+    .bannerContentBtn {
+        flex-direction: column;
+    }
+    
+    .bannerContentBtn button {
+        width: 100%;
+    }
+
+    .bannerForm{
+        padding: 20px;
+    }
+
+    .bannerHighlight h2{
+        font-size: 28px;
+    }
+
+    .counterSection h2{
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        color: #ff00c8;
+        
+    }
+
+    .demoBtn button{
+        width: 180px;
+        height: 50px;
+        margin: auto;
+        background: linear-gradient(93.77deg, #4ffe0a -6.36%, #ff00c8 50.16%);
+    }
+
+    .bannerHighlight button{
+        font-size: 20px;
+        height: auto;
+        width: auto;
+    }
+
+    .certify-elem h3{
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .certify-section h3 {
+        font-size: 25px;
+        font-weight: 500;
+        color: #0A2134;
+        padding-top: 40px;
+    }
+
+    .certify-section button{
+        height: 40px;
+        width: 130px;
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    .certificate-image{
+        width: auto;
+        position: relative;
+        left: -40px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1170px;
+    }
+}

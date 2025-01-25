@@ -1,0 +1,236 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.call{
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #ff00c8 50.16%);
+
+}
+
+.bannerContent{
+    font-family: Inter;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 68px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+
+
+.bannerContent span{
+    background: url("../images/Vector\ 63.png") no-repeat bottom;
+    color: #ff00c8;
+}
+
+.para{
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: left;
+
+}
+
+ul{
+    list-style: none;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+li i {
+    color: #ff00c8;
+}
+
+.bannerContentBtn button{
+    width: Hug (278px)px;
+height: Hug (60px)px;
+top: 568px;
+left: 158px;
+padding: 16px 48px 16px 48px;
+gap: 16px;
+border-radius: 8px;
+border: 1px 0px 0px 0px;
+
+}
+
+.bannerContentBtn button:first-child{
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #ff00c8 50.16%);
+}
+
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.bannerForm h3 {
+    font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 21.78px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.bannerForm p{
+    font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 14.52px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.form-select{
+    width: 20%;
+    padding: 5px;
+}
+
+.subBtn{
+    width: 100%;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #ff00c8 50.16%);
+    height: 44px;
+}
+
+.counterSection h2{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    color: #ff00c8;
+    
+}
+
+.bannerHighlight{
+    background-color: #F7FAFF;
+
+}
+
+.bannerHighlight h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.highlightItem h4{
+    font-size: 20px;
+    font-weight: 700;
+    color: #0A2134;
+
+}
+
+.highlightItem p{
+    font-size: 15px;
+}
+
+.demoBtn button{
+    width: 250px;
+    height: 60px;
+    margin: auto;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #ff00c8 50.16%);
+}
+
+.container4 h3{
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.container4 p{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+.container4 h4{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.container4 img{
+    height: 56px;
+    width: 56px;
+}
+
+.certify-section{
+    background: #F7FAFF;
+
+}
+
+.certify-section h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+    padding-top: 60px;
+}
+
+.certify-section button{
+    height: 60px;
+    width: 250px;
+    background:linear-gradient(93.77deg, #0ACEFE -6.36%, #ff00c8 50.16%);
+}
+
+.certify-elem h3{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.certify-elem p{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.certificate-image{
+    background-image: url("../images/certificate-image.png") ;
+    width:auto;
+    height: auto;
+}
+
+.container5 h2{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+
+.offcanvas-body ul li a{
+    font-weight: bold;
+    margin-right: 15px;
+    color: #ff00c8;
+}
+
+.footer{
+    background-color: #0A2540;
+}
+
+.footerContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+
+.footerContent p{
+    color: #F7FAFF;
+}
+
+.footerContent img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.myTabButton .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    background-color: #F2F4F7;
+    color: black;
+    border-bottom: 2px solid blue;
+}
